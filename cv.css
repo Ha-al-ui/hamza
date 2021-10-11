@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/1156725.jpg);
+    text-align: center;
+}
+p{
+    font-family: verdana;
+}
+h1{
+    color: snow;
+    border-style: double;
+    border-width: thick;
+    background-color: gray;
+    border-radius: 8px ;
+    padding: 5px;
+    width: 500px;
+    
+}
+table{
+    width: 350px;
+ text-align: center;
+}
+h2{
+    color: rgb(209, 48, 19);
+}
+tr.ha{
+    color: rgb(209, 48, 19) ;
+}
+div{
+background-color: rgb(235, 197, 128);
+width: 550px;
+border-style: inset;
+margin-right: 800px;
+}
+h3{
+    color: blue;
+    border-style: inset;
+    border-width: thin;
+    background-color: gray;
+    border-radius: 8px;
+    padding: 5px;
+    width: 300px;
+}
+div.haha{
+    background-color: rgb(235, 197, 128);
+width: 550px;
+border-style: inset;
+margin-left: 600px;
+margin-top: -650px;
+}
+div.hom{
+    background-color: rgb(235, 197, 128);
+    width: 550px;
+    border-style: inset;
+    margin-left: 600px;
+    margin-top: 70px;
+}
